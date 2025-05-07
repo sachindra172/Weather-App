@@ -1,0 +1,18 @@
+.SearchBox {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+   color:black
+  }
+  
+  .search-controls {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+  }
+  
+  .search-btn {
+    align-self: center;
+  }
+  
